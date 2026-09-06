@@ -5,9 +5,10 @@
 // 一切変更する必要がありません（相対座標ベースのマーカー配置のため）。
 //
 // 現状：単色のプレースホルダー画像（地形・地図を模したものは一切含まない）
-export const MAP_IMAGE_SRC = "/map/hokkaido-map-placeholder.jpg";
+export const MAP_IMAGE_SRC = export const MAP_IMAGE_SRC = "/map/IMG_9662.jpeg";
+
 
 // プレースホルダー画像の実ピクセルサイズ（アスペクト比計算に使用）
 // 実画像に差し替えた場合は、この値も実画像の幅・高さに合わせて更新してください。
-export const MAP_IMAGE_WIDTH = 1200;
-export const MAP_IMAGE_HEIGHT = 1600;
+export const MAP_IMAGE_WIDTH = 1149;
+export const MAP_IMAGE_HEIGHT = 1062;
