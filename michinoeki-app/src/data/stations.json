@@ -1,0 +1,1443 @@
+[
+  {
+    "number": 1,
+    "name": "三笠",
+    "mapPosition": {
+      "x": 0.47,
+      "y": 0.53
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 2,
+    "name": "スターブラザ芦別",
+    "mapPosition": {
+      "x": 0.45,
+      "y": 0.45
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 3,
+    "name": "南ふらの",
+    "mapPosition": {
+      "x": 0.55,
+      "y": 0.6
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 4,
+    "name": "しらぬか恋問館",
+    "mapPosition": {
+      "x": 0.72,
+      "y": 0.68
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 5,
+    "name": "びふか",
+    "mapPosition": {
+      "x": 0.55,
+      "y": 0.22
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 6,
+    "name": "江差",
+    "mapPosition": {
+      "x": 0.28,
+      "y": 0.83
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 7,
+    "name": "望羊中山",
+    "mapPosition": {
+      "x": 0.44,
+      "y": 0.55
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 8,
+    "name": "えんべつ富士見",
+    "mapPosition": {
+      "x": 0.44,
+      "y": 0.19
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 9,
+    "name": "忠類",
+    "mapPosition": {
+      "x": 0.72,
+      "y": 0.75
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 10,
+    "name": "足寄湖",
+    "mapPosition": {
+      "x": 0.75,
+      "y": 0.63
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 11,
+    "name": "摩周温泉",
+    "mapPosition": {
+      "x": 0.8,
+      "y": 0.53
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 12,
+    "name": "おといねっぷ",
+    "mapPosition": {
+      "x": 0.42,
+      "y": 0.14
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 13,
+    "name": "かみゆうべつ温泉チューリップの湯",
+    "mapPosition": {
+      "x": 0.3,
+      "y": 0.1
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 14,
+    "name": "いわない",
+    "mapPosition": {
+      "x": 0.32,
+      "y": 0.15
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 15,
+    "name": "まるせっぷ",
+    "mapPosition": {
+      "x": 0.68,
+      "y": 0.44
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 16,
+    "name": "厚岸グルメパーク",
+    "mapPosition": {
+      "x": 0.87,
+      "y": 0.6
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 17,
+    "name": "サンフラワー北竜",
+    "mapPosition": {
+      "x": 0.44,
+      "y": 0.35
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 18,
+    "name": "みついし",
+    "mapPosition": {
+      "x": 0.6,
+      "y": 0.87
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 19,
+    "name": "あっさぶ",
+    "mapPosition": {
+      "x": 0.3,
+      "y": 0.82
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 20,
+    "name": "よってけ！島牧",
+    "mapPosition": {
+      "x": 0.29,
+      "y": 0.79
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 21,
+    "name": "てっくいランド大成",
+    "mapPosition": {
+      "x": 0.28,
+      "y": 0.81
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 22,
+    "name": "オホーツク紋別",
+    "mapPosition": {
+      "x": 0.71,
+      "y": 0.3
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 23,
+    "name": "YOU・遊・もり",
+    "mapPosition": {
+      "x": 0.3,
+      "y": 0.83
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 24,
+    "name": "おんねゆ温泉",
+    "mapPosition": {
+      "x": 0.72,
+      "y": 0.42
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 25,
+    "name": "ルート229元和台",
+    "mapPosition": {
+      "x": 0.24,
+      "y": 0.87
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 26,
+    "name": "ハウスヤルビ奈井江",
+    "mapPosition": {
+      "x": 0.46,
+      "y": 0.42
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 27,
+    "name": "おびら鰊番屋",
+    "mapPosition": {
+      "x": 0.4,
+      "y": 0.29
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 28,
+    "name": "マリーンアイランド岡島",
+    "mapPosition": {
+      "x": 0.6,
+      "y": 0.15
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 29,
+    "name": "おこっぺ",
+    "mapPosition": {
+      "x": 0.66,
+      "y": 0.28
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 30,
+    "name": "阿寒丹頂の里",
+    "mapPosition": {
+      "x": 0.75,
+      "y": 0.6
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 31,
+    "name": "おとふけ",
+    "mapPosition": {
+      "x": 0.65,
+      "y": 0.63
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 32,
+    "name": "ピンネシリ",
+    "mapPosition": {
+      "x": 0.52,
+      "y": 0.19
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 33,
+    "name": null,
+    "mapPosition": {
+      "x": 0.55,
+      "y": 0.44
+    },
+    "isPositionVerified": false,
+    "isNameVerified": false,
+    "nameSource": "要確認"
+  },
+  {
+    "number": 34,
+    "name": "上ノ国もんじゅ",
+    "mapPosition": {
+      "x": 0.27,
+      "y": 0.86
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 35,
+    "name": "オスコイ！かもえない",
+    "mapPosition": {
+      "x": 0.35,
+      "y": 0.51
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 36,
+    "name": "なかさつない",
+    "mapPosition": {
+      "x": 0.68,
+      "y": 0.72
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 37,
+    "name": "マオイの丘公園",
+    "mapPosition": {
+      "x": 0.44,
+      "y": 0.58
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 38,
+    "name": "樹海ロード日高",
+    "mapPosition": {
+      "x": 0.51,
+      "y": 0.61
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 39,
+    "name": "そうべつ情報館i（アイ）",
+    "mapPosition": {
+      "x": 0.42,
+      "y": 0.65
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 40,
+    "name": "ニセコビュープラザ",
+    "mapPosition": {
+      "x": 0.36,
+      "y": 0.57
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 41,
+    "name": "しりうち",
+    "mapPosition": {
+      "x": 0.27,
+      "y": 0.85
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 42,
+    "name": "横綱の里ふくしま",
+    "mapPosition": {
+      "x": 0.31,
+      "y": 0.86
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 43,
+    "name": "サラブレッドロード新冠",
+    "mapPosition": {
+      "x": 0.47,
+      "y": 0.71
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 44,
+    "name": "ピア21しほろ",
+    "mapPosition": {
+      "x": 0.68,
+      "y": 0.53
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "公式"
+  },
+  {
+    "number": 45,
+    "name": "香りの里たきのうえ",
+    "mapPosition": {
+      "x": 0.62,
+      "y": 0.32
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "公式"
+  },
+  {
+    "number": 46,
+    "name": "田園の里うりゅう",
+    "mapPosition": {
+      "x": 0.4,
+      "y": 0.38
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "公式"
+  },
+  {
+    "number": 47,
+    "name": "みたら室蘭",
+    "mapPosition": {
+      "x": 0.44,
+      "y": 0.66
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 48,
+    "name": "とうま",
+    "mapPosition": {
+      "x": 0.5,
+      "y": 0.32
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 49,
+    "name": "スペース・アップルよいち",
+    "mapPosition": {
+      "x": 0.38,
+      "y": 0.53
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 50,
+    "name": "ほっと・はぼろ",
+    "mapPosition": {
+      "x": 0.35,
+      "y": 0.22
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 51,
+    "name": "サロマ湖",
+    "mapPosition": {
+      "x": 0.75,
+      "y": 0.33
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 52,
+    "name": "愛ランド湧別",
+    "mapPosition": {
+      "x": 0.73,
+      "y": 0.33
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 53,
+    "name": "おうむ",
+    "mapPosition": {
+      "x": 0.6,
+      "y": 0.16
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 54,
+    "name": "さるふつ公園",
+    "mapPosition": {
+      "x": 0.58,
+      "y": 0.06
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 55,
+    "name": "森と湖の里ほろかない",
+    "mapPosition": {
+      "x": 0.42,
+      "y": 0.28
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "公式"
+  },
+  {
+    "number": 56,
+    "name": "うたしないチロルの湯",
+    "mapPosition": {
+      "x": 0.44,
+      "y": 0.42
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 57,
+    "name": "くろまつない",
+    "mapPosition": {
+      "x": 0.3,
+      "y": 0.75
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 58,
+    "name": "たきかわ",
+    "mapPosition": {
+      "x": 0.44,
+      "y": 0.44
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 59,
+    "name": "スワン44ねむろ",
+    "mapPosition": {
+      "x": 0.92,
+      "y": 0.53
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 60,
+    "name": "つるぬま",
+    "mapPosition": {
+      "x": 0.34,
+      "y": 0.76
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 61,
+    "name": "なとわ・えさん",
+    "mapPosition": {
+      "x": 0.34,
+      "y": 0.87
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 62,
+    "name": "つど～る・プラザ・さわら",
+    "mapPosition": {
+      "x": 0.31,
+      "y": 0.85
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 63,
+    "name": "知床・らうす",
+    "mapPosition": {
+      "x": 0.86,
+      "y": 0.44
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 64,
+    "name": "さらべつ",
+    "mapPosition": {
+      "x": 0.68,
+      "y": 0.71
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "公式"
+  },
+  {
+    "number": 65,
+    "name": "だて歴史の杜",
+    "mapPosition": {
+      "x": 0.42,
+      "y": 0.68
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 66,
+    "name": "あさひかわ",
+    "mapPosition": {
+      "x": 0.51,
+      "y": 0.35
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "公式"
+  },
+  {
+    "number": 67,
+    "name": "自然体感しむかっぷ",
+    "mapPosition": {
+      "x": 0.6,
+      "y": 0.53
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 68,
+    "name": "にしおこっぺ花夢",
+    "mapPosition": {
+      "x": 0.66,
+      "y": 0.28
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 69,
+    "name": "オーロラタウン93りくべつ",
+    "mapPosition": {
+      "x": 0.73,
+      "y": 0.44
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 70,
+    "name": "はなやか(葉菜野花)小清水",
+    "mapPosition": {
+      "x": 0.79,
+      "y": 0.35
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "公式"
+  },
+  {
+    "number": 71,
+    "name": "ライスランドふかがわ",
+    "mapPosition": {
+      "x": 0.42,
+      "y": 0.36
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 72,
+    "name": "なかがわ",
+    "mapPosition": {
+      "x": 0.51,
+      "y": 0.19
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 73,
+    "name": "230ルスツ",
+    "mapPosition": {
+      "x": 0.34,
+      "y": 0.66
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 74,
+    "name": "てしお",
+    "mapPosition": {
+      "x": 0.53,
+      "y": 0.1
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 75,
+    "name": "コスモール大樹",
+    "mapPosition": {
+      "x": 0.71,
+      "y": 0.75
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 76,
+    "name": "ぐるっとパノラマ美幌峠",
+    "mapPosition": {
+      "x": 0.83,
+      "y": 0.38
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "公式"
+  },
+  {
+    "number": 77,
+    "name": "らんこし・ふるさとの丘",
+    "mapPosition": {
+      "x": 0.35,
+      "y": 0.55
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 78,
+    "name": "とようら",
+    "mapPosition": {
+      "x": 0.36,
+      "y": 0.63
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 79,
+    "name": "メルヘンの丘めまんべつ",
+    "mapPosition": {
+      "x": 0.79,
+      "y": 0.36
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "公式"
+  },
+  {
+    "number": 80,
+    "name": "むかわ四季の館",
+    "mapPosition": {
+      "x": 0.55,
+      "y": 0.68
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 81,
+    "name": "あいおい",
+    "mapPosition": {
+      "x": 0.75,
+      "y": 0.36
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 82,
+    "name": "しかおい",
+    "mapPosition": {
+      "x": 0.55,
+      "y": 0.71
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 83,
+    "name": "しらたき",
+    "mapPosition": {
+      "x": 0.66,
+      "y": 0.28
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 84,
+    "name": "あしょろ銀河ホール21",
+    "mapPosition": {
+      "x": 0.76,
+      "y": 0.63
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 85,
+    "name": "サーモンパーク千歳",
+    "mapPosition": {
+      "x": 0.53,
+      "y": 0.61
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 86,
+    "name": "ひがしかわ「道草館」",
+    "mapPosition": {
+      "x": 0.53,
+      "y": 0.36
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "公式"
+  },
+  {
+    "number": 87,
+    "name": "花ロードえにわ",
+    "mapPosition": {
+      "x": 0.44,
+      "y": 0.58
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 88,
+    "name": "シェルプラザ・港",
+    "mapPosition": {
+      "x": 0.36,
+      "y": 0.64
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 89,
+    "name": "真狩フラワーセンター",
+    "mapPosition": {
+      "x": 0.36,
+      "y": 0.53
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "公式"
+  },
+  {
+    "number": 90,
+    "name": "鐘のなるまち・ちっぷべつ",
+    "mapPosition": {
+      "x": 0.46,
+      "y": 0.35
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "公式"
+  },
+  {
+    "number": 91,
+    "name": "あぷた",
+    "mapPosition": {
+      "x": 0.36,
+      "y": 0.65
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "公式"
+  },
+  {
+    "number": 92,
+    "name": "うりまく",
+    "mapPosition": {
+      "x": 0.65,
+      "y": 0.53
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "公式"
+  },
+  {
+    "number": 93,
+    "name": "絵本の里けんぶち",
+    "mapPosition": {
+      "x": 0.47,
+      "y": 0.28
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 94,
+    "name": "風Wとままえ",
+    "mapPosition": {
+      "x": 0.42,
+      "y": 0.22
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 95,
+    "name": "しほろ温泉",
+    "mapPosition": {
+      "x": 0.68,
+      "y": 0.53
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 96,
+    "name": "名水の郷きょうごく",
+    "mapPosition": {
+      "x": 0.53,
+      "y": 0.36
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 97,
+    "name": "びえい「丘のくら」",
+    "mapPosition": {
+      "x": 0.53,
+      "y": 0.37
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 98,
+    "name": "☆ロマン街道しょさんべつ",
+    "mapPosition": {
+      "x": 0.4,
+      "y": 0.29
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "公式"
+  },
+  {
+    "number": 99,
+    "name": "うとろ・シリエトク",
+    "mapPosition": {
+      "x": 0.9,
+      "y": 0.35
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 100,
+    "name": "しゃり",
+    "mapPosition": {
+      "x": 0.85,
+      "y": 0.36
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "公式"
+  },
+  {
+    "number": 101,
+    "name": "パパスランドさっつる",
+    "mapPosition": {
+      "x": 0.79,
+      "y": 0.37
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 102,
+    "name": "もち米の里☆なよろ",
+    "mapPosition": {
+      "x": 0.53,
+      "y": 0.24
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "公式"
+  },
+  {
+    "number": 103,
+    "name": "みなとま～れ寿都",
+    "mapPosition": {
+      "x": 0.24,
+      "y": 0.66
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "公式"
+  },
+  {
+    "number": 104,
+    "name": "とうや湖",
+    "mapPosition": {
+      "x": 0.44,
+      "y": 0.66
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 105,
+    "name": "流氷街道網走",
+    "mapPosition": {
+      "x": 0.79,
+      "y": 0.32
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 106,
+    "name": "北前船 松前",
+    "mapPosition": {
+      "x": 0.24,
+      "y": 0.83
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 107,
+    "name": "ステラ★ほんべつ",
+    "mapPosition": {
+      "x": 0.68,
+      "y": 0.53
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 108,
+    "name": "ウトナイ湖",
+    "mapPosition": {
+      "x": 0.53,
+      "y": 0.63
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 109,
+    "name": "うらほろ",
+    "mapPosition": {
+      "x": 0.71,
+      "y": 0.66
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 110,
+    "name": "しんしのつ",
+    "mapPosition": {
+      "x": 0.44,
+      "y": 0.51
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 111,
+    "name": "夕張メロード",
+    "mapPosition": {
+      "x": 0.44,
+      "y": 0.59
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 112,
+    "name": "おだいとう",
+    "mapPosition": {
+      "x": 0.95,
+      "y": 0.44
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 113,
+    "name": "縄文ロマン 南かやべ",
+    "mapPosition": {
+      "x": 0.29,
+      "y": 0.85
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 114,
+    "name": "わっかない",
+    "mapPosition": {
+      "x": 0.44,
+      "y": 0.08
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "公式"
+  },
+  {
+    "number": 115,
+    "name": "あかいがわ",
+    "mapPosition": {
+      "x": 0.38,
+      "y": 0.51
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 116,
+    "name": "みそぎの郷きこない",
+    "mapPosition": {
+      "x": 0.3,
+      "y": 0.84
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "公式"
+  },
+  {
+    "number": 117,
+    "name": "しかべ間歇泉公園",
+    "mapPosition": {
+      "x": 0.31,
+      "y": 0.85
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 118,
+    "name": "ノンキーランドひがしもこと",
+    "mapPosition": {
+      "x": 0.78,
+      "y": 0.37
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "公式"
+  },
+  {
+    "number": 119,
+    "name": "北欧の風 道の駅とうべつ",
+    "mapPosition": {
+      "x": 0.44,
+      "y": 0.51
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "公式"
+  },
+  {
+    "number": 120,
+    "name": "石狩あいろーど厚田",
+    "mapPosition": {
+      "x": 0.42,
+      "y": 0.44
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "公式"
+  },
+  {
+    "number": 121,
+    "name": "なないろ・ななえ",
+    "mapPosition": {
+      "x": 0.3,
+      "y": 0.85
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 122,
+    "name": "びえい「白金ビルケ」",
+    "mapPosition": {
+      "x": 0.53,
+      "y": 0.37
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 123,
+    "name": "北オホーツクはまとんべつ",
+    "mapPosition": {
+      "x": 0.55,
+      "y": 0.13
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 124,
+    "name": "あびらD51ステーション",
+    "mapPosition": {
+      "x": 0.51,
+      "y": 0.61
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "公式"
+  },
+  {
+    "number": 125,
+    "name": "遠軽 森のオホーツク",
+    "mapPosition": {
+      "x": 0.71,
+      "y": 0.28
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 126,
+    "name": "るもい",
+    "mapPosition": {
+      "x": 0.42,
+      "y": 0.28
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 127,
+    "name": "かみしほろ",
+    "mapPosition": {
+      "x": 0.71,
+      "y": 0.53
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 128,
+    "name": "ガーデンスパ十勝川温泉",
+    "mapPosition": {
+      "x": 0.68,
+      "y": 0.6
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 129,
+    "name": "羊のまち 侍・しべつ",
+    "mapPosition": {
+      "x": 0.55,
+      "y": 0.24
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 130,
+    "name": "275つきがた",
+    "mapPosition": {
+      "x": 0.44,
+      "y": 0.42
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  },
+  {
+    "number": 131,
+    "name": "ふるびらたらこミュージアム",
+    "mapPosition": {
+      "x": 0.32,
+      "y": 0.51
+    },
+    "isPositionVerified": false,
+    "isNameVerified": true,
+    "nameSource": "台紙"
+  }
+]

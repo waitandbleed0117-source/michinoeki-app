@@ -1,0 +1,17 @@
+import { createClient } from "@supabase/supabase-js";
+
+const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
+const supabaseAnonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
+
+if (!supabaseUrl || !supabaseAnonKey) {
+  // ビルド時ではなく実行時に気づけるよう、コンソールに警告のみ出す。
+  // (Vercelでの環境変数未設定に気づきやすくするため)
+  console.warn(
+    "[supabaseClient] 環境変数 NEXT_PUBLIC_SUPABASE_URL / NEXT_PUBLIC_SUPABASE_ANON_KEY が設定されていません。"
+  );
+}
+
+export const supabase = createClient(
+  supabaseUrl ?? "",
+  supabaseAnonKey ?? ""
+);
