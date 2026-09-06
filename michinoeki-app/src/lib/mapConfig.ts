@@ -5,7 +5,8 @@
 // 一切変更する必要がありません（相対座標ベースのマーカー配置のため）。
 //
 // 現状：単色のプレースホルダー画像（地形・地図を模したものは一切含まない）
-export const MAP_IMAGE_SRC = export const MAP_IMAGE_SRC = "/map/IMG_9662.jpeg";
+export const MAP_IMAGE_SRC = "/map/IMG_9662.jpeg";
+
 
 
 // プレースホルダー画像の実ピクセルサイズ（アスペクト比計算に使用）
